@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @IQ-msf
 - 👀 I’m interested in programming and science
 - 🌱 I’m currently learn python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : My Telegram @Ph_msf
 
 <!---
